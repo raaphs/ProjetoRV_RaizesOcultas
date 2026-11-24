@@ -1,0 +1,38 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# IDE
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+/*.unityproj
+/*.booproj
+/*.pidb
+/*.pdb
+/*.mdb
+/*.user
+/*.suo
+/*.userprefs
+/TempAssembly.dll
+
+# Builds
+/*.apk
+/*.aab
+/*_BurstDebugInformation_DoNotShip/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
